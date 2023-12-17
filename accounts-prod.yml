@@ -3,7 +3,7 @@ build:
   version: "1.0"
    
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs from github  update"
+  message: "Welcome to EazyBank accounts related prod APIs from github  update rptmq"
   contactDetails:
     name: "Reine Aishwarya - Product Owner from config server  AND CONFIG PATH "
     email: "{cipher}e0074c02938b21dff077631347420320fe9fe0c6d46ce0b9be3952022af3d69ec57e89ec001b40bccbdcd886b3fa07c412abeb23a99438d786caa28bcdbf356b"
