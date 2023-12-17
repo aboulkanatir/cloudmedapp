@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs  rbtm ---"
+  message: "Welcome to EazyBank cards related prod APIs  rbtm --- updttfinal"
   contactDetails:
     name: "Sandra Harald - Product Owner  from config server"
     email: "sandra@eazybank.com"
