@@ -3,7 +3,7 @@ build:
   version: "1.0"
    
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related prod APIs from github  "
   contactDetails:
     name: "Reine Aishwarya - Product Owner from config server  AND CONFIG PATH "
     email: "{cipher}e389c3984abe3280f9581bbff8e5ef0d3f7eaa2b9b1d843aafd2a46d25bef8dbebc938a933985bf79564a9f228ec121bf55fc96925d7273614a7436e1f41289b2"
